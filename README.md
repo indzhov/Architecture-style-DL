@@ -7,9 +7,9 @@ The app could be found [(here)](https://architecture-classifier.herokuapp.com)
 
 Some examples of the final results : 
 
-![graph1: ](examples/1.png)
-![graph2: ](examples/2.png)
-![graph3: ](examples/3.png)
+![graph1: ](examples/1.jpg)
+![graph2: ](examples/2.jpg)
+![graph3: ](examples/3.jpg)
 
 # The Project
 1 - Gathering of the data : 
